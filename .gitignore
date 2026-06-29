@@ -1,0 +1,79 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet packages
+*.nupkg
+# Uncomment the line below if you do not want to restore packages from the web
+#!packages/
+
+# MS Build (Auto-generated files)
+*-scaffolding.cs
+*.aspx.g.cs
+*.aspx.designer.cs
+*.cache
+*.local
+*.opendb
+*.vc.db
+
+# Visual Studio test results
+TestResults/
+[Dd]ebugTest/
+[Rr]eleaseTest/
+*.trx
+
+# IDE specific files
+.vs/
+.vscode/
+*.pidb
+*.dbmdl
+*.aps
+*.opendb
+*.suo
+*.user
+*.sc
+_ReSharper*/
+*.rsuser
+*-resharper.xml
+*.DotSettings.user
+
+# JetBrains Rider
+*.sln.iml
+.idea/
+
+# Packaged files
+*.zip
+*.tar.gz
+*.nupkg
+
+# F# Interactive
+*.fsx.lock
+
+# Build log files
+*.log
+*.err
+*.wrn
+
+# Windows thumbnail caches
+Thumbs.db
+[Dd]esktop.ini

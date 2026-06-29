@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataProcessing.App/DataProcessing.App.csproj"/>
+  <Project Path="DataProcessing.Lib/DataProcessing.Lib.csproj"/>
+</Solution>
