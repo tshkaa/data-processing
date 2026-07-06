@@ -3,5 +3,8 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
+    <PackageVersion Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageVersion Include="MathNet.Filtering" Version="0.7.0" />
+    <PackageVersion Include="ScottPlot" Version="5.1.59" />
   </ItemGroup>
 </Project>
